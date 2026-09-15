@@ -13,7 +13,11 @@ const observer = new IntersectionObserver(
       const id = `#${entry.target.id}`;
       links.forEach((link) => {
         const active = link.getAttribute("href") === id;
-        link.setAttribute("aria-current", active ? "page" : "false");
+        if (active) {
+          link.setAttribute("aria-current", "page");
+        } else {
+          link.removeAttribute("aria-current");
+        }
       });
     });
   },
