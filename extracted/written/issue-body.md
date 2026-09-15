@@ -32,22 +32,22 @@ Customize the instructor-approved static portfolio template into a professional 
 
 # Major-task checklist
 
-- [ ] Fork/copy the instructor-approved starter repository.
-- [ ] Give the repository a meaningful name and update README.md.
-- [ ] Add `content-notes.md`.
-- [ ] Create and populate this GitHub issue.
-- [ ] Create `feature/portfolio-personalization`.
-- [ ] Make the initial feature-branch commit.
-- [ ] Submit the context-specific AI prompt and record the AI response in `ai-log.md`.
-- [ ] Review and approve/revise the AI plan.
-- [ ] Implement identity/navigation changes.
-- [ ] Implement experience/education/project content.
-- [ ] Implement responsive/accessibility improvements.
-- [ ] Perform human code review.
-- [ ] Run local tests and capture evidence.
-- [ ] Open the pull request.
-- [ ] Merge the pull request without deleting the feature branch.
-- [ ] Enable GitHub Pages.
-- [ ] Verify the live site.
-- [ ] Create the Reflection issue.
-- [ ] Complete the submission document and package the repository as a ZIP.
+- [x] Fork/copy the instructor-approved starter repository.
+- [x] Give the repository a meaningful name and update README.md.
+- [x] Add `content-notes.md`.
+- [x] Create and populate this GitHub issue.
+- [x] Create `feature/portfolio-personalization`.
+- [x] Make the initial feature-branch commit.
+- [x] Submit the context-specific AI prompt and record the AI response in `ai-log.md`.
+- [x] Review and approve/revise the AI plan.
+- [x] Implement identity/navigation changes.
+- [x] Implement experience/education/project content.
+- [x] Implement responsive/accessibility improvements.
+- [x] Perform human code review.
+- [x] Run local tests and capture evidence.
+- [x] Open the pull request.
+- [x] Merge the pull request without deleting the feature branch.
+- [x] Enable GitHub Pages.
+- [x] Verify the live site.
+- [x] Create the Reflection issue.
+- [x] Complete the submission document and package the repository as a ZIP.
