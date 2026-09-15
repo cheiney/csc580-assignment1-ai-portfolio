@@ -2,6 +2,11 @@
 
 A static professional portfolio customized for SWE 380 / CSC 580 Assignment 1.
 
+## Repository and deployment
+
+- Repository URL: https://github.com/cheiney/csc580-assignment1-ai-portfolio
+- Live GitHub Pages URL: https://cheiney.github.io/csc580-assignment1-ai-portfolio/
+
 ## Purpose
 
 The site presents verified education, professional experience, technical interests, and selected personal interests for internship, recruiting, and technical-review audiences.
