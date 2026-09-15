@@ -10,6 +10,9 @@ https://cheiney.github.io/csc580-assignment1-ai-portfolio/
 https://github.com/cheiney/csc580-assignment1-ai-portfolio/issues/1
 
 4. Feature-branch URL or commit history URL
+Branch name: feature/portfolio-personalization
+Initial feature-branch commit URL: https://github.com/cheiney/csc580-assignment1-ai-portfolio/commit/ad1446543fd7704459cfb8f20b2e1ee5a31deed5
+Feature branch URL: https://github.com/cheiney/csc580-assignment1-ai-portfolio/tree/feature/portfolio-personalization
 https://github.com/cheiney/csc580-assignment1-ai-portfolio/commits/feature/portfolio-personalization
 
 5. Pull-request URL
@@ -37,3 +40,6 @@ extracted/written/human-code-review.md
 11. Reflection responses
 Reflection issue: https://github.com/cheiney/csc580-assignment1-ai-portfolio/issues/3
 File copy: extracted/written/reflection.md
+
+12. Deployment workflow evidence
+https://github.com/cheiney/csc580-assignment1-ai-portfolio/actions/runs/34980550928
