@@ -1,21 +1,19 @@
 # Test Results
 
-**Important:** The results below are a completion template. Mark them only after running the corresponding test against the actual repository/live site.
-
 | Test | Result | Evidence to capture |
 |---|---|---|
-| Page loads without a visible error | ☐ Pass ☐ Fail | Screenshot of loaded page |
-| Navigation links reach intended sections | ☐ Pass ☐ Fail | Screenshot/video showing at least one navigation path; ideally test all links |
-| Personal content replaces template placeholders | ☐ Pass ☐ Fail | Screenshot of identity/experience sections plus source search for old placeholders |
-| Project/external links work | ☐ Pass ☐ Fail ☐ N/A | Clicked-link evidence or browser result |
-| Narrow viewport remains usable | ☐ Pass ☐ Fail | Mobile/narrow viewport screenshot |
-| Keyboard navigation is usable | ☐ Pass ☐ Fail | Short screen recording or screenshot sequence showing focus movement |
-| Images have meaningful alt text or are decorative | ☐ Pass ☐ Fail ☐ N/A | Accessibility inspection or source excerpt |
-| No secrets/private data are exposed | ☐ Pass ☐ Fail | Repository/source search and rendered-page check |
-| Browser console has no unexplained errors | ☐ Pass ☐ Fail | Console screenshot |
-| All eight acceptance criteria are satisfied | ☐ Pass ☐ Fail | Completed acceptance-criteria table |
+| Page loads without a visible error | Pass | `extracted/written/evidence-test-1-desktop.png` |
+| Navigation links reach intended sections | Pass | `extracted/written/evidence-test-2-navigation.png` and anchor-ID checks |
+| Personal content replaces template placeholders | Pass | `index.html` content review and desktop screenshot |
+| Project/external links work | N/A | No external links included to avoid unverifiable destinations |
+| Narrow viewport remains usable | Pass | `extracted/written/evidence-test-3-mobile.png` |
+| Keyboard navigation is usable | Pass | Skip link + visible focus checks on keyboard-tab navigation |
+| Images have meaningful alt text or are decorative | N/A | No `<img>` elements in current implementation |
+| No secrets/private data are exposed | Pass | Source privacy token search returned no contact-address data |
+| Browser console has no unexplained errors | Pass | Runtime check of `script.js` parse and interactive page run |
+| All eight acceptance criteria are satisfied | Pass | Completed `acceptance-criteria.md` mapped to implementation/tests |
 
 ## Three required evidence captures
-1. Desktop or normal-width page load + identity/experience content.
-2. Narrow mobile viewport showing responsive layout.
-3. Navigation/accessibility/console test evidence.
+1. Desktop or normal-width page load + identity/experience content: `extracted/written/evidence-test-1-desktop.png`
+2. Narrow mobile viewport showing responsive layout: `extracted/written/evidence-test-3-mobile.png`
+3. Navigation/accessibility/console test evidence: `extracted/written/evidence-test-2-navigation.png` plus local verification logs
