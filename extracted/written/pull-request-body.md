@@ -4,9 +4,9 @@ This pull request customizes the starter static portfolio template into a profes
 
 ## Original issue
 
-`Build and publish my AI-assisted portfolio update`
+Build and publish my AI-assisted portfolio update
 
-Issue URL: `REPLACE_WITH_ISSUE_URL`
+Issue URL: https://github.com/cheiney/csc580-assignment1-ai-portfolio/issues/1
 
 ## Changes
 - Replaced starter identity and placeholder content with verified resume information.
@@ -19,26 +19,26 @@ Issue URL: `REPLACE_WITH_ISSUE_URL`
 
 ## Acceptance criteria
 
-- [ ] Landing page displays name and professional role.
-- [ ] Education and Experience use verified resume information.
-- [ ] Navigation reaches intended sections.
-- [ ] Narrow viewport remains usable.
-- [ ] No private contact information or template placeholders remain.
-- [ ] External links are valid or omitted when unverifiable.
-- [ ] Keyboard navigation and image alternative text are usable.
-- [ ] No unexplained browser-console errors.
+- [x] Landing page displays name and professional role.
+- [x] Education and Experience use verified resume information.
+- [x] Navigation reaches intended sections.
+- [x] Narrow viewport remains usable.
+- [x] No private contact information or template placeholders remain.
+- [x] External links are valid or omitted when unverifiable.
+- [x] Keyboard navigation and image alternative text are usable.
+- [x] No unexplained browser-console errors.
 
 ## Testing performed
 
-- [ ] Normal page-load test
-- [ ] Navigation test
-- [ ] Placeholder/content verification
-- [ ] External-link test / N/A
-- [ ] Narrow-viewport test
-- [ ] Keyboard-navigation test
-- [ ] Image alt-text test / N/A
-- [ ] Privacy/secrets check
-- [ ] Browser-console check
+- [x] Normal page-load test
+- [x] Navigation test
+- [x] Placeholder/content verification
+- [x] External-link test / N/A
+- [x] Narrow-viewport test
+- [x] Keyboard-navigation test
+- [x] Image alt-text test / N/A
+- [x] Privacy/secrets check
+- [x] Browser-console check
 
 ## AI assistance
 
