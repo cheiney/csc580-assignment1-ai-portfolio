@@ -24,7 +24,7 @@ This file contains only professional information intended for a public student p
 
 ## Professional experience
 ### Jackson National Life — Senior Financial Analyst, Asset Liability Management
-2019–Present
+2019-Aug 2026
 - Ran periodic inforce hedging models for variable annuity asset liability management, producing Greek-based sensitivity data that informed delta, gamma, vega, rho, and equity market hedge decisions.
 - Executed local volatility option models to evaluate embedded guarantee exposure, quantify option sensitivities across changing market conditions, and support timely hedge adjustments throughout the trading day.
 - Generated Bloomberg MARS risk analyses to measure portfolio sensitivities, validate hedge performance, and translate financial Greeks into actionable reporting for daily asset liability hedging decisions.
