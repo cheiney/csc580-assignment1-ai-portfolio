@@ -1,5 +1,7 @@
 # Submission Document
 
+Repository ZIP artifact (for LMS upload): extracted/written/csc580-assignment1-repo.zip
+
 1. Repository URL
 https://github.com/cheiney/csc580-assignment1-ai-portfolio
 
