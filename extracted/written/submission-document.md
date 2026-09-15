@@ -22,6 +22,7 @@ https://github.com/cheiney/csc580-assignment1-ai-portfolio/pull/2
 
 6. Merge commit or repository history URL
 Merge commit: https://github.com/cheiney/csc580-assignment1-ai-portfolio/commit/311dc19b38fd252b5338fcf3a13c37a9710e67bb
+Latest main commit (includes date update and final packaging): https://github.com/cheiney/csc580-assignment1-ai-portfolio/commit/731c598c37426046a197f849c4968978af2c55ca
 History URL: https://github.com/cheiney/csc580-assignment1-ai-portfolio/commits/main
 
 7. ai-log.md or equivalent AI-use record
@@ -44,4 +45,4 @@ Reflection issue: https://github.com/cheiney/csc580-assignment1-ai-portfolio/iss
 File copy: extracted/written/reflection.md
 
 12. Deployment workflow evidence
-https://github.com/cheiney/csc580-assignment1-ai-portfolio/actions/runs/34980550928
+https://github.com/cheiney/csc580-assignment1-ai-portfolio/actions/runs/34981215360
